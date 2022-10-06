@@ -1,0 +1,1 @@
+printf("%d",Combination(n,r));
